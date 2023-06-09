@@ -39,11 +39,11 @@ Pithagorasz-tétel és megfordítása, a belső és külső szögösszegekre von
 Szög mérése fokban és radiánban, szögfüggvények általánosítása, szinusz, koszinusz, tangens, periodikusdáguk, pótszögek, kiegészítő szögek, pithagoraszi összefüggés. Addíciós összefüggések. Trigonometrikus egyenletek, másodfokúra vezető trigonometrikus egyenletek, egyszerű trigonometrikus egyenlőtlenségek. 
 
 ### (10.) Valószínűségszámítás és statisztika
-Kombinatorikus valószínűség. Események algebrája, valószínűségi változók, kizáró esetek összeadási, független lehetőségek szorzási szabálya, feltételes valószínűség, geometriai valószínűség. Folytonos és diszkrét vsz.i változók, kategorikus (nominális), ordinális és intervallum szintű változók. Módusz, medián,  számtani és mértani közép. Várható érték. Abszolút átlagos eltérés és szórás. Kvartilisek, terjedelem és interkvatilis terjedelem (IQR), sodrófa (boxplot) diagram.
+Kombinatorikus valószínűség. Események algebrája, valószínűségi változók, kizáró esetek összeadási, független lehetőségek szorzási szabálya, feltételes valószínűség, geometriai valószínűség. Folytonos és diszkrét vsz.i változók, kategorikus (nominális), ordinális és intervallum szintű változók. Módusz, medián,  számtani és mértani közép. Várható érték. Abszolút átlagos eltérés és szórás. Kvartilisek, terjedelem és interkvartilis terjedelem (IQR), sodrófa (boxplot) diagram.
 
 ### (11.) Síkbeli koordinátageometria
 
-Vektorok, műveletek vektorokkal: nyújtás és összeadás, lineáis kombináció, egyértelmű felbonthatóság. Skaláris szorzat és alakjai. Egyenes és kör egyenletei, kölcsönös helyzetük. Érintő problémák, vektor 90°-os elforgatottjának koordinátái, két pont távolsága, háromszög súlypontja koordinátái, a háromszög nevezetes vonalaira, pontjaira és köreire vonatkozó definíciók, tételek. 
+Vektorok, műveletek vektorokkal: nyújtás és összeadás, lineáis kombináció, egyértelmű felbonthatóság. Skaláris szorzat és alakjai. Egyenes és kör egyenletei, kölcsönös helyzetük. Érintőproblémák, vektor 90°-os elforgatottjának koordinátái, két pont távolsága, háromszög súlypontja koordinátái, a háromszög nevezetes vonalaira, pontjaira és köreire vonatkozó definíciók, tételek. 
 
 ### (12.) Komplex számok
 
