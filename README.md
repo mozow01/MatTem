@@ -20,7 +20,7 @@ Polinomok, nevezetes azonosságok, binomiális formula. Algebrai és törtes kif
 
 ### (4.) Számelmélet, polinomok
 
-Prímszámok, Eratoszthenész szitája, a számelmélet alaptétele, osztók száma és összege, kitüntetett osztók és többszörösök. Polinomok maradákos osztása,  polinom gyökének és zérushelyének kapcsolat, egész együtthatós polinomok racionális gyöktesztje. 
+Prímszámok, Eratoszthenész szitája, a számelmélet alaptétele, osztók száma és összege, kitüntetett osztók és többszörösök. Polinomok maradákos osztása, polinom gyökének és zérushelyének kapcsolata, egész együtthatós polinomok racionális gyöktesztje. 
 
 ### (5.) Hatvány, gyök, logaritmus
 
