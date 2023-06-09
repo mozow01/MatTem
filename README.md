@@ -18,7 +18,6 @@ Halmazok egyenlősége, részhalmazok, műveletek, halmazalgebrai azonosságok �
 
 Polinomok, nevezetes azonosságok, binomiális formula. Algebrai és törtes kifejezések és egyenletek, egyenletrendszerek, egyenlőtlenségek, teljes négyzeté alakítás.
 
-
 ### (4.) Számelmélet, polinomok
 
 Prímszámok, Eratoszthenész szitája, a számelmélet alaptétele, osztók száma és összege, kitüntetett osztók és többszörösök. Polinomok maradákos osztása,  polinom gyökének és zérushelyének kapcsolat, egész együtthatós polinomok racionális gyöktesztje. 
@@ -40,12 +39,17 @@ Pithagorasz-tétel és megfordítása, a belső és külső szögösszegekre von
 Szög mérése fokban és radiánban, szögfüggvények általánosítása, szinusz, koszinusz, tangens, periodikusdáguk, pótszögek, kiegészítő szögek, pithagoraszi összefüggés. Addíciós összefüggések. Trigonometrikus egyenletek, másodfokúra vezető trigonometrikus egyenletek, egyszerű trigonometrikus egyenlőtlenségek. 
 
 ### (10.) Valószínűségszámítás és statisztika
-Kombinatorikus valószínűség. Események algebrája, valószínűségi változók, kizáró esetek összeadási, független lehetőségek szorzási szabálya, feltételes valószínűség, geometriai valószínűség. Folytonos és diszkrét vsz.i változók, kategorikus (nominális), ordinális és intervallum szintű változók. Módusz, medián,  számtani és mértani közép. Várható érték. Abszolút átlagos eltérés és szórás. Kvartilisek, terjedelem és interkvatilis terjedelem (IQR)
+Kombinatorikus valószínűség. Események algebrája, valószínűségi változók, kizáró esetek összeadási, független lehetőségek szorzási szabálya, feltételes valószínűség, geometriai valószínűség. Folytonos és diszkrét vsz.i változók, kategorikus (nominális), ordinális és intervallum szintű változók. Módusz, medián,  számtani és mértani közép. Várható érték. Abszolút átlagos eltérés és szórás. Kvartilisek, terjedelem és interkvatilis terjedelem (IQR), sodrófa (boxplot) diagram.
 
+### (11.) Síkbeli koordinátageometria
 
-### (9.) Komplex számok
+Vektorok, műveletek vektorokkal: nyújtás és összeadás, lineáis kombináció, egyértelmű felbonthatóság. Skaláris szorzat és alakjai. gyenes és kör egyenletei, kölcsönös helyzetük, érintő problémák. 
+
+### (12.) Komplex számok
 
 Komplex számok, komplex szorzás és hatványozás, komplex gyökvonás, komplex egyenletek és egyenletrendszerek, az algebra alaptétele, valós együtthatós komplex egyenletek megoldásai, polinomok valós és komplex gyökei.
+
+
 
 
 
