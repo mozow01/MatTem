@@ -30,7 +30,7 @@ n-edik gyök, logaritmus, áttérés más alapú logaritmusra, másodfokúra vis
 
 Értelmezési tartomány, értékkészlet, leszűkítés, inverzfüggvény, egyváltozós valós függvények, hatvány, lineáris, másodfokú, abszolútérték, négyzetgyök, logaritmus, exponenciális, a függvények grafikonja, függvények jellemzése, zérushely, növekedés, fogyás, szélsőérték, periodicitás, paritás, másodfokú függvényre vezető szélsőérték-feladatok.
 
-### (7.) Síkeometria
+### (7.) Síkgeometria
 
 Pithagorasz-tétel és megfordítása, a belső és külső szögösszegekre vonatkozó tétel, a kör érintője, látókör, Thalész-tétel és megfordítása. Koszinusz és szinusztétel, területképletek. Egybevágósági transzformációk, egybevágóság jellemzése, hasonlóság és jellemzése, egybevágóságok és hasonlóságok osztályozása. Háromszög területének kiszámítása, nevezetes négyszögek területének számítása, kör, körcikk
 
